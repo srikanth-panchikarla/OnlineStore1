@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test thread-count="3" name="SignIn(failed)" parallel="tests">
+    <classes>
+      <class name="automationFramework.Register_TC">
+        <methods>
+          <include name="Register" invocation-numbers="0"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- automationFramework.Register_TC -->
+    </classes>
+  </test> <!-- SignIn(failed) -->
+</suite> <!-- Failed suite [Suite] -->

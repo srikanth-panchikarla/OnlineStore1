@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="true" thread-count="4" >
+ 
+  
+  <test name="SignIn">
+  <classes>
+  <class name="automationFramework.SignIn_TC" />
+  <class name="automationFramework.Register_TC" />
+ 
+  </classes> 
+  </test>
+   
+</suite> <!-- Suite -->

@@ -1,0 +1,587 @@
+2019-03-12 11:42:56,360 INFO  [Log] **************************************************************************************** 
+2019-03-12 11:42:56,360 INFO  [Log] **************************************************************************************** 
+2019-03-12 11:42:56,360 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-12 11:42:56,360 INFO  [Log] **************************************************************************************** 
+2019-03-12 11:42:56,360 INFO  [Log] **************************************************************************************** 
+2019-03-12 11:42:56,361 INFO  [Log] ::Driver path:: 
+2019-03-12 11:42:56,361 INFO  [Log] ::Excel sheet path:: 
+2019-03-12 11:42:58,853 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-12 11:43:05,421 INFO  [Log] ::Getting the application URL:: 
+2019-03-12 11:43:05,422 INFO  [Log] =====Inside Sign method====== 
+2019-03-12 11:43:05,422 INFO  [Log] Username picked from Excel is Srikanth 
+2019-03-12 11:43:05,422 INFO  [Log] Password picked from Excel is Password 
+2019-03-12 11:43:05,443 INFO  [Log] Link sign on found 
+2019-03-12 11:43:06,557 INFO  [Log] Clicked on Signon button 
+2019-03-12 11:43:06,593 INFO  [Log] Username text box found 
+2019-03-12 11:43:06,627 INFO  [Log] Username text box found 
+2019-03-12 11:43:06,687 INFO  [Log] Entered user nameSrikanth 
+2019-03-12 11:43:06,702 INFO  [Log] Password text box found 
+2019-03-12 11:43:06,751 INFO  [Log] Entered passwordPassword 
+2019-03-12 11:43:06,765 INFO  [Log] Submit button found 
+2019-03-12 11:43:08,541 INFO  [Log] Click action performed on Submit button 
+2019-03-12 11:43:08,541 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-12 11:43:09,657 INFO  [Log] **************************************************************************************** 
+2019-03-12 11:43:09,657 INFO  [Log] **************************************************************************************** 
+2019-03-12 11:43:09,657 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-12 11:43:09,657 INFO  [Log] **************************************************************************************** 
+2019-03-12 11:43:09,657 INFO  [Log] **************************************************************************************** 
+2019-03-12 11:43:09,657 INFO  [Log] ::Driver path:: 
+2019-03-12 11:43:09,657 INFO  [Log] ::Excel sheet path:: 
+2019-03-12 11:43:11,677 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-12 11:43:18,109 INFO  [Log] ::Getting the application URL:: 
+2019-03-12 11:43:18,110 INFO  [Log] =====Inside Sign method====== 
+2019-03-12 11:43:18,110 INFO  [Log] Username picked from Excel is DDD 
+2019-03-12 11:43:18,110 INFO  [Log] Password picked from Excel is PPP 
+2019-03-12 11:43:18,132 INFO  [Log] Link sign on found 
+2019-03-12 11:43:19,245 INFO  [Log] Clicked on Signon button 
+2019-03-12 11:43:19,267 INFO  [Log] Username text box found 
+2019-03-12 11:43:19,300 INFO  [Log] Username text box found 
+2019-03-12 11:43:19,352 INFO  [Log] Entered user nameDDD 
+2019-03-12 11:43:19,366 INFO  [Log] Password text box found 
+2019-03-12 11:43:19,403 INFO  [Log] Entered passwordPPP 
+2019-03-12 11:43:19,416 INFO  [Log] Submit button found 
+2019-03-12 11:43:20,896 INFO  [Log] Click action performed on Submit button 
+2019-03-12 11:43:20,896 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-12 11:43:21,891 INFO  [Log] ::Driver path:: 
+2019-03-12 11:43:21,891 INFO  [Log] ::Excel sheet path:: 
+2019-03-12 11:43:23,912 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-12 11:43:32,275 INFO  [Log] ::Getting the application URL:: 
+2019-03-12 11:43:32,275 INFO  [Log] =====Inside Register method====== 
+2019-03-12 11:43:32,276 INFO  [Log] Your in Register_Execute method 
+2019-03-12 11:43:32,301 INFO  [Log] Link register found 
+2019-03-12 11:43:33,414 INFO  [Log] Clicked Register link 
+2019-03-12 11:43:33,966 INFO  [Log] Username text box found 
+2019-03-12 11:43:34,047 INFO  [Log] Password text box found 
+2019-03-12 11:43:35,645 INFO  [Log] =====inside Register_Action method====== 
+2019-03-15 11:18:51,126 INFO  [Log] **************************************************************************************** 
+2019-03-15 11:18:51,126 INFO  [Log] **************************************************************************************** 
+2019-03-15 11:18:51,126 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 11:18:51,126 INFO  [Log] **************************************************************************************** 
+2019-03-15 11:18:51,126 INFO  [Log] **************************************************************************************** 
+2019-03-15 11:18:51,126 INFO  [Log] ::Driver path:: 
+2019-03-15 11:18:51,126 INFO  [Log] ::Excel sheet path:: 
+2019-03-15 11:18:53,696 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-15 11:19:00,264 INFO  [Log] ::Getting the application URL:: 
+2019-03-15 11:19:00,264 INFO  [Log] =====Inside Sign method====== 
+2019-03-15 11:19:00,267 INFO  [Log] Username picked from Excel is Srikanth 
+2019-03-15 11:19:00,267 INFO  [Log] Password picked from Excel is Password 
+2019-03-15 11:19:00,295 INFO  [Log] Link sign on found 
+2019-03-15 11:19:01,394 INFO  [Log] Clicked on Signon button 
+2019-03-15 11:19:01,440 INFO  [Log] Username text box found 
+2019-03-15 11:19:01,468 INFO  [Log] Username text box found 
+2019-03-15 11:19:01,518 INFO  [Log] Entered user nameSrikanth 
+2019-03-15 11:19:01,532 INFO  [Log] Password text box found 
+2019-03-15 11:19:01,573 INFO  [Log] Entered passwordPassword 
+2019-03-15 11:19:01,586 INFO  [Log] Submit button found 
+2019-03-15 11:19:03,083 INFO  [Log] Click action performed on Submit button 
+2019-03-15 11:19:03,083 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-15 11:19:04,195 INFO  [Log] **************************************************************************************** 
+2019-03-15 11:19:04,195 INFO  [Log] **************************************************************************************** 
+2019-03-15 11:19:04,195 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 11:19:04,195 INFO  [Log] **************************************************************************************** 
+2019-03-15 11:19:04,195 INFO  [Log] **************************************************************************************** 
+2019-03-15 11:19:04,195 INFO  [Log] ::Driver path:: 
+2019-03-15 11:19:04,195 INFO  [Log] ::Excel sheet path:: 
+2019-03-15 11:19:06,229 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-15 11:19:12,559 INFO  [Log] ::Getting the application URL:: 
+2019-03-15 11:19:12,559 INFO  [Log] =====Inside Sign method====== 
+2019-03-15 11:19:12,559 INFO  [Log] Username picked from Excel is DDD 
+2019-03-15 11:19:12,559 INFO  [Log] Password picked from Excel is PPP 
+2019-03-15 11:19:12,581 INFO  [Log] Link sign on found 
+2019-03-15 11:19:13,927 INFO  [Log] Clicked on Signon button 
+2019-03-15 11:19:13,945 INFO  [Log] Username text box found 
+2019-03-15 11:19:13,968 INFO  [Log] Username text box found 
+2019-03-15 11:19:14,016 INFO  [Log] Entered user nameDDD 
+2019-03-15 11:19:14,032 INFO  [Log] Password text box found 
+2019-03-15 11:19:14,066 INFO  [Log] Entered passwordPPP 
+2019-03-15 11:19:14,079 INFO  [Log] Submit button found 
+2019-03-15 11:19:15,480 INFO  [Log] Click action performed on Submit button 
+2019-03-15 11:19:15,480 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-15 11:19:16,454 INFO  [Log] ::Driver path:: 
+2019-03-15 11:19:16,454 INFO  [Log] ::Excel sheet path:: 
+2019-03-15 11:19:18,477 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-15 11:19:24,985 INFO  [Log] ::Getting the application URL:: 
+2019-03-15 11:19:24,985 INFO  [Log] =====Inside Register method====== 
+2019-03-15 11:19:24,990 INFO  [Log] Your in Register_Execute method 
+2019-03-15 11:19:25,008 INFO  [Log] Link register found 
+2019-03-15 11:19:26,177 INFO  [Log] Clicked Register link 
+2019-03-15 11:19:26,712 INFO  [Log] Username text box found 
+2019-03-15 11:19:26,789 INFO  [Log] Password text box found 
+2019-03-15 11:19:28,404 INFO  [Log] =====inside Register_Action method====== 
+2019-03-27 17:00:51,738 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:00:51,743 INFO  [Log] ::Driver path:: 
+2019-03-27 17:00:51,744 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:00:51,744 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:00:51,744 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-27 17:00:51,744 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:00:51,744 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:00:51,744 INFO  [Log] ::Driver path:: 
+2019-03-27 17:00:51,744 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:00:54,449 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:00:54,491 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:01:00,796 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:01:00,802 INFO  [Log] =====Inside Register method====== 
+2019-03-27 17:01:00,813 INFO  [Log] Your in Register_Execute method 
+2019-03-27 17:01:00,844 INFO  [Log] Link register found 
+2019-03-27 17:01:01,111 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:01:01,113 INFO  [Log] =====Inside Sign method====== 
+2019-03-27 17:01:01,117 INFO  [Log] Username picked from Excel is Srikanth 
+2019-03-27 17:01:01,117 INFO  [Log] Password picked from Excel is Password 
+2019-03-27 17:01:01,134 INFO  [Log] Link sign on found 
+2019-03-27 17:01:02,042 INFO  [Log] Clicked Register link 
+2019-03-27 17:01:02,611 INFO  [Log] Clicked on Signon button 
+2019-03-27 17:01:02,674 INFO  [Log] Username text box found 
+2019-03-27 17:01:02,730 INFO  [Log] Username text box found 
+2019-03-27 17:01:02,809 INFO  [Log] Entered user nameSrikanth 
+2019-03-27 17:01:02,824 INFO  [Log] Password text box found 
+2019-03-27 17:01:02,845 INFO  [Log] Username text box found 
+2019-03-27 17:01:02,889 INFO  [Log] Entered passwordPassword 
+2019-03-27 17:01:02,911 INFO  [Log] Submit button found 
+2019-03-27 17:01:02,956 INFO  [Log] Password text box found 
+2019-03-27 17:01:04,328 INFO  [Log] Click action performed on Submit button 
+2019-03-27 17:01:04,328 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-27 17:01:04,597 INFO  [Log] =====inside Register_Action method====== 
+2019-03-27 17:02:29,454 INFO  [Log] ::Driver path:: 
+2019-03-27 17:02:29,455 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:02:29,455 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:02:29,455 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:02:29,455 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-27 17:02:29,455 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:02:29,455 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:02:29,455 INFO  [Log] ::Driver path:: 
+2019-03-27 17:02:29,455 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:02:32,117 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:02:32,186 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:02:38,529 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:02:38,534 INFO  [Log] =====Inside Sign method====== 
+2019-03-27 17:02:38,535 INFO  [Log] Username picked from Excel is Srikanth 
+2019-03-27 17:02:38,535 INFO  [Log] Password picked from Excel is Password 
+2019-03-27 17:02:38,562 INFO  [Log] Link sign on found 
+2019-03-27 17:02:38,639 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:02:38,641 INFO  [Log] =====Inside Register method====== 
+2019-03-27 17:02:38,642 INFO  [Log] Your in Register_Execute method 
+2019-03-27 17:02:38,659 INFO  [Log] Link register found 
+2019-03-27 17:02:39,743 INFO  [Log] Clicked on Signon button 
+2019-03-27 17:02:39,776 INFO  [Log] Username text box found 
+2019-03-27 17:02:39,804 INFO  [Log] Username text box found 
+2019-03-27 17:02:39,884 INFO  [Log] Clicked Register link 
+2019-03-27 17:02:39,910 INFO  [Log] Entered user nameSrikanth 
+2019-03-27 17:02:39,941 INFO  [Log] Password text box found 
+2019-03-27 17:02:40,028 INFO  [Log] Entered passwordPassword 
+2019-03-27 17:02:40,045 INFO  [Log] Submit button found 
+2019-03-27 17:02:40,513 INFO  [Log] Username text box found 
+2019-03-27 17:02:40,601 INFO  [Log] Password text box found 
+2019-03-27 17:02:41,513 INFO  [Log] Click action performed on Submit button 
+2019-03-27 17:02:41,513 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-27 17:02:42,276 INFO  [Log] =====inside Register_Action method====== 
+2019-03-27 17:03:18,271 INFO  [Log] ::Driver path:: 
+2019-03-27 17:03:18,273 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:03:18,273 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:03:18,273 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:03:18,273 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-27 17:03:18,273 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:03:18,273 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:03:18,273 INFO  [Log] ::Driver path:: 
+2019-03-27 17:03:18,273 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:03:20,925 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:03:21,015 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:03:27,467 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:03:27,472 INFO  [Log] =====Inside Sign method====== 
+2019-03-27 17:03:27,472 INFO  [Log] Username picked from Excel is Srikanth 
+2019-03-27 17:03:27,473 INFO  [Log] Password picked from Excel is Password 
+2019-03-27 17:03:27,493 INFO  [Log] Link sign on found 
+2019-03-27 17:03:27,568 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:03:27,570 INFO  [Log] =====Inside Register method====== 
+2019-03-27 17:03:27,571 INFO  [Log] Your in Register_Execute method 
+2019-03-27 17:03:27,590 INFO  [Log] Link register found 
+2019-03-27 17:03:28,622 INFO  [Log] Clicked on Signon button 
+2019-03-27 17:03:28,655 INFO  [Log] Username text box found 
+2019-03-27 17:03:28,682 INFO  [Log] Username text box found 
+2019-03-27 17:03:28,738 INFO  [Log] Clicked Register link 
+2019-03-27 17:03:28,772 INFO  [Log] Entered user nameSrikanth 
+2019-03-27 17:03:28,792 INFO  [Log] Password text box found 
+2019-03-27 17:03:28,864 INFO  [Log] Entered passwordPassword 
+2019-03-27 17:03:28,881 INFO  [Log] Submit button found 
+2019-03-27 17:03:29,328 INFO  [Log] Username text box found 
+2019-03-27 17:03:29,410 INFO  [Log] Password text box found 
+2019-03-27 17:03:30,353 INFO  [Log] Click action performed on Submit button 
+2019-03-27 17:03:30,353 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-27 17:03:31,065 INFO  [Log] =====inside Register_Action method====== 
+2019-03-27 17:04:03,922 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:04:03,923 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:04:03,923 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-27 17:04:03,923 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:04:03,923 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:04:03,923 INFO  [Log] ::Driver path:: 
+2019-03-27 17:04:03,923 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:04:06,447 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:04:12,707 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:04:12,712 INFO  [Log] =====Inside Sign method====== 
+2019-03-27 17:04:12,713 INFO  [Log] Username picked from Excel is Srikanth 
+2019-03-27 17:04:12,713 INFO  [Log] Password picked from Excel is Password 
+2019-03-27 17:04:12,736 INFO  [Log] Link sign on found 
+2019-03-27 17:04:13,806 INFO  [Log] Clicked on Signon button 
+2019-03-27 17:04:13,836 INFO  [Log] Username text box found 
+2019-03-27 17:04:13,863 INFO  [Log] Username text box found 
+2019-03-27 17:04:13,921 INFO  [Log] Entered user nameSrikanth 
+2019-03-27 17:04:13,936 INFO  [Log] Password text box found 
+2019-03-27 17:04:13,980 INFO  [Log] Entered passwordPassword 
+2019-03-27 17:04:13,992 INFO  [Log] Submit button found 
+2019-03-27 17:04:15,636 INFO  [Log] Click action performed on Submit button 
+2019-03-27 17:04:15,636 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-27 17:04:16,751 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:04:16,752 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:04:16,752 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-27 17:04:16,752 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:04:16,752 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:04:16,752 INFO  [Log] ::Driver path:: 
+2019-03-27 17:04:16,752 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:04:18,773 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:04:25,108 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:04:25,109 INFO  [Log] =====Inside Sign method====== 
+2019-03-27 17:04:25,109 INFO  [Log] Username picked from Excel is DDD 
+2019-03-27 17:04:25,109 INFO  [Log] Password picked from Excel is PPP 
+2019-03-27 17:04:25,127 INFO  [Log] Link sign on found 
+2019-03-27 17:04:26,220 INFO  [Log] Clicked on Signon button 
+2019-03-27 17:04:26,247 INFO  [Log] Username text box found 
+2019-03-27 17:04:26,273 INFO  [Log] Username text box found 
+2019-03-27 17:04:26,328 INFO  [Log] Entered user nameDDD 
+2019-03-27 17:04:26,343 INFO  [Log] Password text box found 
+2019-03-27 17:04:26,387 INFO  [Log] Entered passwordPPP 
+2019-03-27 17:04:26,401 INFO  [Log] Submit button found 
+2019-03-27 17:04:27,840 INFO  [Log] Click action performed on Submit button 
+2019-03-27 17:04:27,840 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-27 17:04:56,972 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:04:56,974 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:04:56,974 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-27 17:04:56,974 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:04:56,974 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:04:56,974 INFO  [Log] ::Driver path:: 
+2019-03-27 17:04:56,974 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:04:56,973 INFO  [Log] ::Driver path:: 
+2019-03-27 17:04:56,975 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:04:59,673 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:04:59,692 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:05:05,990 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:05:05,995 INFO  [Log] =====Inside Sign method====== 
+2019-03-27 17:05:05,996 INFO  [Log] Username picked from Excel is Srikanth 
+2019-03-27 17:05:05,996 INFO  [Log] Password picked from Excel is Password 
+2019-03-27 17:05:06,015 INFO  [Log] Link sign on found 
+2019-03-27 17:05:06,161 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:05:06,163 INFO  [Log] =====Inside Register method====== 
+2019-03-27 17:05:06,164 INFO  [Log] Your in Register_Execute method 
+2019-03-27 17:05:06,183 INFO  [Log] Link register found 
+2019-03-27 17:05:07,111 INFO  [Log] Clicked on Signon button 
+2019-03-27 17:05:07,143 INFO  [Log] Username text box found 
+2019-03-27 17:05:07,182 INFO  [Log] Username text box found 
+2019-03-27 17:05:07,238 INFO  [Log] Entered user nameSrikanth 
+2019-03-27 17:05:07,255 INFO  [Log] Password text box found 
+2019-03-27 17:05:07,306 INFO  [Log] Clicked Register link 
+2019-03-27 17:05:07,329 INFO  [Log] Entered passwordPassword 
+2019-03-27 17:05:07,346 INFO  [Log] Submit button found 
+2019-03-27 17:05:07,909 INFO  [Log] Username text box found 
+2019-03-27 17:05:08,011 INFO  [Log] Password text box found 
+2019-03-27 17:05:08,816 INFO  [Log] Click action performed on Submit button 
+2019-03-27 17:05:08,816 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-27 17:05:09,833 INFO  [Log] =====inside Register_Action method====== 
+2019-03-27 17:07:19,876 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:07:19,877 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:07:19,877 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-27 17:07:19,877 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:07:19,877 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:07:19,877 INFO  [Log] ::Driver path:: 
+2019-03-27 17:07:19,877 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:07:22,407 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:07:24,266 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:07:24,271 INFO  [Log] =====Inside Sign method====== 
+2019-03-27 17:07:24,272 INFO  [Log] Username picked from Excel is Srikanth 
+2019-03-27 17:07:24,272 INFO  [Log] Password picked from Excel is Password 
+2019-03-27 17:07:25,059 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:07:25,059 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:07:25,059 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-27 17:07:25,059 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:07:25,059 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:07:25,059 INFO  [Log] ::Driver path:: 
+2019-03-27 17:07:25,059 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:07:27,075 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:07:33,276 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:07:33,277 INFO  [Log] =====Inside Sign method====== 
+2019-03-27 17:07:33,277 INFO  [Log] Username picked from Excel is DDD 
+2019-03-27 17:07:33,277 INFO  [Log] Password picked from Excel is PPP 
+2019-03-27 17:07:33,299 INFO  [Log] Link sign on found 
+2019-03-27 17:07:34,379 INFO  [Log] Clicked on Signon button 
+2019-03-27 17:07:34,416 INFO  [Log] Username text box found 
+2019-03-27 17:07:34,448 INFO  [Log] Username text box found 
+2019-03-27 17:07:34,497 INFO  [Log] Entered user nameDDD 
+2019-03-27 17:07:34,511 INFO  [Log] Password text box found 
+2019-03-27 17:07:34,547 INFO  [Log] Entered passwordPPP 
+2019-03-27 17:07:34,560 INFO  [Log] Submit button found 
+2019-03-27 17:07:34,716 INFO  [Log] Click action performed on Submit button 
+2019-03-27 17:07:34,716 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-27 17:07:46,763 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:07:46,763 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:07:46,763 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-27 17:07:46,763 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:07:46,763 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:07:46,763 INFO  [Log] ::Driver path:: 
+2019-03-27 17:07:46,763 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:07:49,289 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:07:56,016 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:07:56,021 INFO  [Log] =====Inside Sign method====== 
+2019-03-27 17:07:56,021 INFO  [Log] Username picked from Excel is Srikanth 
+2019-03-27 17:07:56,021 INFO  [Log] Password picked from Excel is Password 
+2019-03-27 17:07:56,046 INFO  [Log] Link sign on found 
+2019-03-27 17:07:57,185 INFO  [Log] Clicked on Signon button 
+2019-03-27 17:07:57,215 INFO  [Log] Username text box found 
+2019-03-27 17:07:57,244 INFO  [Log] Username text box found 
+2019-03-27 17:07:57,308 INFO  [Log] Entered user nameSrikanth 
+2019-03-27 17:07:57,324 INFO  [Log] Password text box found 
+2019-03-27 17:07:57,370 INFO  [Log] Entered passwordPassword 
+2019-03-27 17:07:57,384 INFO  [Log] Submit button found 
+2019-03-27 17:07:58,802 INFO  [Log] Click action performed on Submit button 
+2019-03-27 17:07:58,802 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-27 17:07:59,890 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:07:59,890 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:07:59,890 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-27 17:07:59,891 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:07:59,891 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:07:59,891 INFO  [Log] ::Driver path:: 
+2019-03-27 17:07:59,891 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:08:01,912 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:08:08,345 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:08:08,346 INFO  [Log] =====Inside Sign method====== 
+2019-03-27 17:08:08,346 INFO  [Log] Username picked from Excel is DDD 
+2019-03-27 17:08:08,346 INFO  [Log] Password picked from Excel is PPP 
+2019-03-27 17:08:08,366 INFO  [Log] Link sign on found 
+2019-03-27 17:08:09,463 INFO  [Log] Clicked on Signon button 
+2019-03-27 17:08:09,488 INFO  [Log] Username text box found 
+2019-03-27 17:08:09,514 INFO  [Log] Username text box found 
+2019-03-27 17:08:09,560 INFO  [Log] Entered user nameDDD 
+2019-03-27 17:08:09,574 INFO  [Log] Password text box found 
+2019-03-27 17:08:09,609 INFO  [Log] Entered passwordPPP 
+2019-03-27 17:08:09,623 INFO  [Log] Submit button found 
+2019-03-27 17:08:10,997 INFO  [Log] Click action performed on Submit button 
+2019-03-27 17:08:10,997 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-27 17:08:12,064 INFO  [Log] ::Driver path:: 
+2019-03-27 17:08:12,064 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:08:14,086 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:08:20,590 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:08:20,591 INFO  [Log] =====Inside Register method====== 
+2019-03-27 17:08:20,592 INFO  [Log] Your in Register_Execute method 
+2019-03-27 17:08:20,612 INFO  [Log] Link register found 
+2019-03-27 17:08:21,733 INFO  [Log] Clicked Register link 
+2019-03-27 17:08:49,942 INFO  [Log] ::Driver path:: 
+2019-03-27 17:08:49,943 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:08:49,943 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:08:49,943 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:08:49,944 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-27 17:08:49,944 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:08:49,944 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:08:49,944 INFO  [Log] ::Driver path:: 
+2019-03-27 17:08:49,944 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:08:52,578 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:08:52,587 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:08:59,057 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:08:59,063 INFO  [Log] =====Inside Sign method====== 
+2019-03-27 17:08:59,064 INFO  [Log] Username picked from Excel is Srikanth 
+2019-03-27 17:08:59,064 INFO  [Log] Password picked from Excel is Password 
+2019-03-27 17:08:59,090 INFO  [Log] Link sign on found 
+2019-03-27 17:08:59,542 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:08:59,544 INFO  [Log] =====Inside Register method====== 
+2019-03-27 17:08:59,545 INFO  [Log] Your in Register_Execute method 
+2019-03-27 17:08:59,564 INFO  [Log] Link register found 
+2019-03-27 17:09:00,212 INFO  [Log] Clicked on Signon button 
+2019-03-27 17:09:00,246 INFO  [Log] Username text box found 
+2019-03-27 17:09:00,286 INFO  [Log] Username text box found 
+2019-03-27 17:09:00,408 INFO  [Log] Entered user nameSrikanth 
+2019-03-27 17:09:00,439 INFO  [Log] Password text box found 
+2019-03-27 17:09:00,515 INFO  [Log] Entered passwordPassword 
+2019-03-27 17:09:00,531 INFO  [Log] Submit button found 
+2019-03-27 17:09:00,749 INFO  [Log] Clicked Register link 
+2019-03-27 17:09:01,358 INFO  [Log] Username text box found 
+2019-03-27 17:09:01,448 INFO  [Log] Password text box found 
+2019-03-27 17:09:02,250 INFO  [Log] Click action performed on Submit button 
+2019-03-27 17:09:02,250 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-27 17:09:03,254 INFO  [Log] =====inside Register_Action method====== 
+2019-03-27 17:09:03,362 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:09:03,362 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:09:03,362 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-27 17:09:03,362 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:09:03,362 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:09:03,362 INFO  [Log] ::Driver path:: 
+2019-03-27 17:09:03,362 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:09:05,388 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:09:11,739 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:09:11,742 INFO  [Log] =====Inside Sign method====== 
+2019-03-27 17:09:11,742 INFO  [Log] Username picked from Excel is DDD 
+2019-03-27 17:09:11,742 INFO  [Log] Password picked from Excel is PPP 
+2019-03-27 17:09:11,763 INFO  [Log] Link sign on found 
+2019-03-27 17:09:12,875 INFO  [Log] Clicked on Signon button 
+2019-03-27 17:09:12,896 INFO  [Log] Username text box found 
+2019-03-27 17:09:12,924 INFO  [Log] Username text box found 
+2019-03-27 17:09:12,982 INFO  [Log] Entered user nameDDD 
+2019-03-27 17:09:12,996 INFO  [Log] Password text box found 
+2019-03-27 17:09:13,035 INFO  [Log] Entered passwordPPP 
+2019-03-27 17:09:13,049 INFO  [Log] Submit button found 
+2019-03-27 17:09:14,472 INFO  [Log] Click action performed on Submit button 
+2019-03-27 17:09:14,472 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-27 17:09:55,378 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:09:55,379 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:09:55,379 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-27 17:09:55,379 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:09:55,379 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:09:55,379 INFO  [Log] ::Driver path:: 
+2019-03-27 17:09:55,379 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:09:57,898 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:10:04,197 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:10:04,201 INFO  [Log] =====Inside Sign method====== 
+2019-03-27 17:10:04,202 INFO  [Log] Username picked from Excel is Srikanth 
+2019-03-27 17:10:04,202 INFO  [Log] Password picked from Excel is Password 
+2019-03-27 17:10:04,229 INFO  [Log] Link sign on found 
+2019-03-27 17:10:05,547 INFO  [Log] Clicked on Signon button 
+2019-03-27 17:10:05,577 INFO  [Log] Username text box found 
+2019-03-27 17:10:05,605 INFO  [Log] Username text box found 
+2019-03-27 17:10:05,663 INFO  [Log] Entered user nameSrikanth 
+2019-03-27 17:10:05,677 INFO  [Log] Password text box found 
+2019-03-27 17:10:05,721 INFO  [Log] Entered passwordPassword 
+2019-03-27 17:10:05,734 INFO  [Log] Submit button found 
+2019-03-27 17:10:07,201 INFO  [Log] Click action performed on Submit button 
+2019-03-27 17:10:07,201 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-27 17:10:08,279 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:10:08,279 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:10:08,279 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-27 17:10:08,279 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:10:08,279 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:10:08,279 INFO  [Log] ::Driver path:: 
+2019-03-27 17:10:08,279 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:10:10,306 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:10:16,753 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:10:16,755 INFO  [Log] =====Inside Sign method====== 
+2019-03-27 17:10:16,755 INFO  [Log] Username picked from Excel is DDD 
+2019-03-27 17:10:16,755 INFO  [Log] Password picked from Excel is PPP 
+2019-03-27 17:10:16,776 INFO  [Log] Link sign on found 
+2019-03-27 17:10:17,868 INFO  [Log] Clicked on Signon button 
+2019-03-27 17:10:17,889 INFO  [Log] Username text box found 
+2019-03-27 17:10:17,921 INFO  [Log] Username text box found 
+2019-03-27 17:10:17,981 INFO  [Log] Entered user nameDDD 
+2019-03-27 17:10:17,996 INFO  [Log] Password text box found 
+2019-03-27 17:10:18,037 INFO  [Log] Entered passwordPPP 
+2019-03-27 17:10:18,051 INFO  [Log] Submit button found 
+2019-03-27 17:10:19,650 INFO  [Log] Click action performed on Submit button 
+2019-03-27 17:10:19,650 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-27 17:10:20,656 INFO  [Log] ::Driver path:: 
+2019-03-27 17:10:20,656 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:10:22,680 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:10:28,263 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:10:28,264 INFO  [Log] =====Inside Register method====== 
+2019-03-27 17:10:28,265 INFO  [Log] Your in Register_Execute method 
+2019-03-27 17:10:45,075 INFO  [Log] ::Driver path:: 
+2019-03-27 17:10:45,077 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:10:45,077 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:10:45,077 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:10:45,077 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-27 17:10:45,077 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:10:45,077 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:10:45,077 INFO  [Log] ::Driver path:: 
+2019-03-27 17:10:45,077 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:10:47,740 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:10:47,839 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:10:54,043 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:10:54,048 INFO  [Log] =====Inside Register method====== 
+2019-03-27 17:10:54,049 INFO  [Log] Your in Register_Execute method 
+2019-03-27 17:10:54,072 INFO  [Log] Link register found 
+2019-03-27 17:10:54,217 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:10:54,219 INFO  [Log] =====Inside Sign method====== 
+2019-03-27 17:10:54,220 INFO  [Log] Username picked from Excel is Srikanth 
+2019-03-27 17:10:54,220 INFO  [Log] Password picked from Excel is Password 
+2019-03-27 17:10:54,244 INFO  [Log] Link sign on found 
+2019-03-27 17:10:55,193 INFO  [Log] Clicked Register link 
+2019-03-27 17:10:55,379 INFO  [Log] Clicked on Signon button 
+2019-03-27 17:10:55,416 INFO  [Log] Username text box found 
+2019-03-27 17:10:55,455 INFO  [Log] Username text box found 
+2019-03-27 17:10:55,545 INFO  [Log] Entered user nameSrikanth 
+2019-03-27 17:10:55,564 INFO  [Log] Password text box found 
+2019-03-27 17:10:55,627 INFO  [Log] Entered passwordPassword 
+2019-03-27 17:10:55,643 INFO  [Log] Submit button found 
+2019-03-27 17:10:55,816 INFO  [Log] Username text box found 
+2019-03-27 17:10:55,894 INFO  [Log] Password text box found 
+2019-03-27 17:10:57,024 INFO  [Log] Click action performed on Submit button 
+2019-03-27 17:10:57,024 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-27 17:10:57,552 INFO  [Log] =====inside Register_Action method====== 
+2019-03-27 17:10:58,159 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:10:58,159 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:10:58,159 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-27 17:10:58,159 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:10:58,159 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:10:58,159 INFO  [Log] ::Driver path:: 
+2019-03-27 17:10:58,159 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:11:00,175 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:11:06,828 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:11:06,830 INFO  [Log] =====Inside Sign method====== 
+2019-03-27 17:11:06,830 INFO  [Log] Username picked from Excel is DDD 
+2019-03-27 17:11:06,830 INFO  [Log] Password picked from Excel is PPP 
+2019-03-27 17:11:06,847 INFO  [Log] Link sign on found 
+2019-03-27 17:11:07,896 INFO  [Log] Clicked on Signon button 
+2019-03-27 17:11:07,916 INFO  [Log] Username text box found 
+2019-03-27 17:11:07,939 INFO  [Log] Username text box found 
+2019-03-27 17:11:07,991 INFO  [Log] Entered user nameDDD 
+2019-03-27 17:11:08,010 INFO  [Log] Password text box found 
+2019-03-27 17:11:08,048 INFO  [Log] Entered passwordPPP 
+2019-03-27 17:11:08,059 INFO  [Log] Submit button found 
+2019-03-27 17:11:09,785 INFO  [Log] Click action performed on Submit button 
+2019-03-27 17:11:09,785 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-27 17:11:27,838 INFO  [Log] ::Driver path:: 
+2019-03-27 17:11:27,839 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:11:27,839 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:11:27,839 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:11:27,839 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-27 17:11:27,839 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:11:27,839 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:11:27,839 INFO  [Log] ::Driver path:: 
+2019-03-27 17:11:27,840 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:11:30,506 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:11:30,544 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:11:37,105 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:11:37,112 INFO  [Log] =====Inside Sign method====== 
+2019-03-27 17:11:37,113 INFO  [Log] Username picked from Excel is Srikanth 
+2019-03-27 17:11:37,113 INFO  [Log] Password picked from Excel is Password 
+2019-03-27 17:11:37,288 INFO  [Log] Link sign on found 
+2019-03-27 17:11:37,304 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:11:37,306 INFO  [Log] =====Inside Register method====== 
+2019-03-27 17:11:37,307 INFO  [Log] Your in Register_Execute method 
+2019-03-27 17:11:37,383 INFO  [Log] Link register found 
+2019-03-27 17:11:38,576 INFO  [Log] Clicked on Signon button 
+2019-03-27 17:11:38,610 INFO  [Log] Username text box found 
+2019-03-27 17:11:38,639 INFO  [Log] Username text box found 
+2019-03-27 17:11:38,791 INFO  [Log] Entered user nameSrikanth 
+2019-03-27 17:11:38,809 INFO  [Log] Password text box found 
+2019-03-27 17:11:38,896 INFO  [Log] Entered passwordPassword 
+2019-03-27 17:11:38,917 INFO  [Log] Submit button found 
+2019-03-27 17:11:39,148 INFO  [Log] Clicked Register link 
+2019-03-27 17:11:39,731 INFO  [Log] Username text box found 
+2019-03-27 17:11:39,822 INFO  [Log] Password text box found 
+2019-03-27 17:11:40,256 INFO  [Log] Click action performed on Submit button 
+2019-03-27 17:11:40,256 INFO  [Log] =====outside Execute method ran successfully====== 
+2019-03-27 17:11:41,416 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:11:41,416 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:11:41,416 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Testcase1       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-27 17:11:41,416 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:11:41,416 INFO  [Log] **************************************************************************************** 
+2019-03-27 17:11:41,416 INFO  [Log] ::Driver path:: 
+2019-03-27 17:11:41,416 INFO  [Log] ::Excel sheet path:: 
+2019-03-27 17:11:41,550 INFO  [Log] =====inside Register_Action method====== 
+2019-03-27 17:11:43,774 INFO  [Log] ::Initialising Chrome driver:: 
+2019-03-27 17:11:50,068 INFO  [Log] ::Getting the application URL:: 
+2019-03-27 17:11:50,069 INFO  [Log] =====Inside Sign method====== 
+2019-03-27 17:11:50,069 INFO  [Log] Username picked from Excel is DDD 
+2019-03-27 17:11:50,069 INFO  [Log] Password picked from Excel is PPP 
+2019-03-27 17:11:50,092 INFO  [Log] Link sign on found 
+2019-03-27 17:11:51,193 INFO  [Log] Clicked on Signon button 
+2019-03-27 17:11:51,215 INFO  [Log] Username text box found 
+2019-03-27 17:11:51,245 INFO  [Log] Username text box found 
+2019-03-27 17:11:51,291 INFO  [Log] Entered user nameDDD 
+2019-03-27 17:11:51,306 INFO  [Log] Password text box found 
+2019-03-27 17:11:51,341 INFO  [Log] Entered passwordPPP 
+2019-03-27 17:11:51,354 INFO  [Log] Submit button found 
+2019-03-27 17:11:52,779 INFO  [Log] Click action performed on Submit button 
+2019-03-27 17:11:52,779 INFO  [Log] =====outside Execute method ran successfully====== 

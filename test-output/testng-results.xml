@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26408" started-at="2019-03-27T11:41:27Z" finished-at="2019-03-27T11:41:53Z">
+    <groups>
+    </groups>
+    <test name="SignIn" duration-ms="26408" started-at="2019-03-27T11:41:27Z" finished-at="2019-03-27T11:41:53Z">
+      <class name="automationFramework.Register_TC">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.Register_TC@7e0e6aa2]" name="beforeMethod" is-config="true" duration-ms="9504" started-at="2019-03-27T11:41:27Z" finished-at="2019-03-27T11:41:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:automationFramework.Register_TC@7e0e6aa2]" name="Register" duration-ms="4526" started-at="2019-03-27T11:41:37Z" data-provider="Data" finished-at="2019-03-27T11:41:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Register_TC1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Srikanth]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[panchi]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123456.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Srik@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Malka]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Hyd]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Srikanth]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Srikanth]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Srikanth]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.Register_TC@7e0e6aa2]" name="afterMethod" is-config="true" duration-ms="678" started-at="2019-03-27T11:41:41Z" finished-at="2019-03-27T11:41:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- automationFramework.Register_TC -->
+      <class name="automationFramework.SignIn_TC">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.SignIn_TC@12c8a2c0]" name="beforeMethod" is-config="true" duration-ms="9305" started-at="2019-03-27T11:41:27Z" finished-at="2019-03-27T11:41:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="SignIn(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:automationFramework.SignIn_TC@12c8a2c0]" name="SignIn" duration-ms="3470" started-at="2019-03-27T11:41:37Z" data-provider="Data" finished-at="2019-03-27T11:41:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Register_TC1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Srikanth]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:automationFramework.SignIn_TC@12c8a2c0]" name="endReport" is-config="true" duration-ms="830" started-at="2019-03-27T11:41:40Z" finished-at="2019-03-27T11:41:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.SignIn_TC@12c8a2c0]" name="beforeMethod" is-config="true" duration-ms="8661" started-at="2019-03-27T11:41:41Z" finished-at="2019-03-27T11:41:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="SignIn(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:automationFramework.SignIn_TC@12c8a2c0]" name="SignIn" duration-ms="3012" started-at="2019-03-27T11:41:50Z" data-provider="Data" finished-at="2019-03-27T11:41:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SignIn_TC2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DDD]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PPP]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:automationFramework.SignIn_TC@12c8a2c0]" name="endReport" is-config="true" duration-ms="659" started-at="2019-03-27T11:41:53Z" finished-at="2019-03-27T11:41:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:automationFramework.SignIn_TC@12c8a2c0]" name="endReport" is-config="true" duration-ms="21" started-at="2019-03-27T11:41:53Z" finished-at="2019-03-27T11:41:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- automationFramework.SignIn_TC -->
+    </test> <!-- SignIn -->
+  </suite> <!-- Suite -->
+</testng-results>
